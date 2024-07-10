@@ -1,5 +1,6 @@
 # Prints de funcionamento
-- ##### My Portfolio With Tsx-ReactNative
+##### My Portfolio With Tsx-ReactNative
+- Para o funcionamento do código é necessário a instalação do <span style="color: #1E90FF; font-weight: bold">React Native</span> e o <span style="color: #a50a0a; font-weight: bold">Expo</span> pelo terminal.
 
 ![](/assets/Prints%20de%20funcionamento/1%20Home.png)
 
